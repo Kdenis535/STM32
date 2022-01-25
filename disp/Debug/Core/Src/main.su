@@ -1,0 +1,14 @@
+main.c:75:6:UART_Printf	272	static
+main.c:86:6:DrawPiano	16	static
+main.c:127:6:init	8	static
+main.c:135:6:TouchGetCoordinates	24	static
+main.c:158:6:playIfWhite	16	static
+main.c:206:6:playIfBlack	16	static
+main.c:243:6:loop	16	static
+main.c:283:5:main	8	static
+main.c:332:6:SystemClock_Config	88	static
+main.c:377:13:MX_SPI2_Init	8	static
+main.c:415:13:MX_TIM4_Init	48	static
+main.c:464:13:MX_USART2_UART_Init	8	static
+main.c:497:13:MX_GPIO_Init	48	static
+main.c:549:6:Error_Handler	4	static
